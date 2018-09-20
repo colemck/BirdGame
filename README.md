@@ -1,2 +1,4 @@
-A flappy bird clone built with objects.
+#Flappy Bird
+
+A flappy bird clone.
 
